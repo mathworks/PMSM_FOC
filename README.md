@@ -1,6 +1,10 @@
 # ブラシレスDCモーター (永久磁石同期モ​ーター) のベクトル制御の設計 (Design the FOC of BLDC (PMSM))
 
+[![View ブラシレスDCモーター (永久磁石同期モーター) のベクトル制御 (FOC of BLDC (PMSM)) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/67172-dc-foc-of-bldc-pmsm)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/PMSM_FOC)
+
+![sample](Fig_PMSM_FOC.png)
 
 ## 説明 (日本語)
 
